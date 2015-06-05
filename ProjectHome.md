@@ -1,0 +1,1 @@
+A Bíblia em XML, em oito linguagens diferentes, dividindo cada livro em um único
